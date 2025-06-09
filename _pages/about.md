@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "王者荣耀"
+title: "欢迎来到王者荣耀"
 author_profile: true
 redirect_from: 
   - /about/
